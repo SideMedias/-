@@ -23,3 +23,4 @@ void int0ExInit(void);//sw1割り込みセットアップ関数
 void timer1COMPInit(void);//カウントダウン割り込みセットアップ(最初は)
 void sw1process(void);//sw1の処理(ストップ、リスタート)
 void timer2COMPInit(void);//buzzerセットアップ関数
+//ryo murakami
